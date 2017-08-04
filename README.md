@@ -1,2 +1,8 @@
 # nodejs-rest-api-frameworks
-The repository will list my list of frameworks I would use on the job
+
+- [Loopback](https://loopback.io/)
+- [Feathers](https://feathersjs.com/)
+- [Sails.js](https://sailsjs.com/)
+- [Restify](http://restify.com/)
+- (Hapi.js)[https://hapijs.com/]
+- [ExpressJS](https://expressjs.com/)
